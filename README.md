@@ -1,7 +1,7 @@
 # zebrafish_mutant_analysis
-Repo for analysis of different zebrafish mutants. 
+Repo for identifying biomarkers of altered brain dynamics in zebrafish mutant models.
 
-Modules
+## Modules
 'admin_functions.py' - useful administrative functions useful
 
 'IS.py' - module for Bayesian importance sampling approach for loglikelihood ratio testing of power law vs lognormal distribution
@@ -10,7 +10,7 @@ Modules
 
 'trace_analyse.py' - module containing classes and functions for the analysis of single cell and population firing statistics
 
-Notebooks
+## Notebooks
 'THAP12.ipynb' - analyses of macroscale brain dynamics in THAP12 mutants
 
 'foxg1_criticality.ipynb' - critical avalanche statistics in FOXG1 mutants
