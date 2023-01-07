@@ -1,5 +1,5 @@
 # zebrafish_mutant_analysis
-Repo for analysis of different zebrafish mutants. 
+Repo for identifying biomarkers of altered brain dynamics in zebrafish mutant models.
 
 ## Modules
 'admin_functions.py' - useful administrative functions useful
