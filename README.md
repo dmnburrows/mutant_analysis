@@ -1,7 +1,7 @@
 # zebrafish_mutant_analysis
 Repo for analysis of different zebrafish mutants. 
 
-Modules
+## Modules
 'admin_functions.py' - useful administrative functions useful
 
 'IS.py' - module for Bayesian importance sampling approach for loglikelihood ratio testing of power law vs lognormal distribution
