@@ -154,7 +154,7 @@ def firing_rate(bind, denominator):
     """
     import numpy as np
     
-    fr = np.median(np.sum(bind, axis = 1)/denominator)
+    fr = np.mean(np.sum(bind, axis = 1)/denominator)
     
     return(fr)
 
@@ -176,7 +176,7 @@ def firing_amp(dff, bind):
     """
     import numpy as np
     
-    fa = np.median(dff[bind == 1])
+    fa = np.mean(dff[bind == 1])
     
     return(fa)
 
